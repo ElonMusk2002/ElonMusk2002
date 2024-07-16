@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello!</h1>
 <p align="center">
-I am an experienced developer with expertise in a wide range of programming languages and frameworks. I am passionate about creating outstanding digital experiences that are both visually appealing and functional. I have worked on numerous projects, from building complex web applications to developing machine learning models. I am highly organized, detail-oriented, and committed to delivering high-quality work that meets my clients' needs. With my skills and experience, I am confident in my ability to tackle any development challenge that comes my way. 🚀
+I am a developer with experience in various programming languages and frameworks. I love creating digital experiences that are both visually appealing and functional. I have worked on many projects, including web applications. Organized and detail-oriented, I am committed to delivering high-quality work that meets my clients' needs. I'm confident in my ability to handle any development challenge. 🚀
 </p>
 
 <p align="center"> 
