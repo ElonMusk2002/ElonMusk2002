@@ -3,10 +3,6 @@
 I am a developer with experience in various programming languages and frameworks. I love creating digital experiences that are both visually appealing and functional. I have worked on many projects, including web applications. Organized and detail-oriented, I am committed to delivering high-quality work that meets my clients' needs. I'm confident in my ability to handle any development challenge. 🚀
 </p>
 
-<p align="center"> 
-  <img src="terminal.gif">
-</p>
-
 <h2 align="center">🛠️ My Tech Stack:</h2>
 
 <p align="center">
@@ -31,38 +27,21 @@ I am a developer with experience in various programming languages and frameworks
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop">
+  &nbsp;  And More...
 </p>
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElonMusk2002&theme=github_dark">
-  <br/>
-  <br/>
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElonMusk2002&show_icons=true&theme=dark&hide_border=false">
-  <br/>
-  <br/>
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-</p>
-
-<h2 align="center">📊 Top Languages Used:</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElonMusk2002&theme=dark&layout=compact&hide_border=false&langs_count=10" width="380">
-  <br/>
-  <br/>
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-</p>
-
-<h2 align="center">🔝 Top Contributed Repo</h2>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ElonMusk2002&limit=5&theme=dark&combine_all_yearly_contributions=true">
-</p>
+<table align="center">
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElonMusk2002&theme=github_dark"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ElonMusk2002&show_icons=true&theme=dark&hide_border=false"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElonMusk2002&theme=dark&layout=compact&hide_border=false&langs_count=10"></td>
+    <td><img src="https://github-contributor-stats.vercel.app/api?username=ElonMusk2002&limit=5&theme=dark&combine_all_yearly_contributions=true"></td>
+  </tr>
+</table>
 
 <h2 align="center">🏆 GitHub Trophies:</h2>
 
@@ -73,22 +52,16 @@ I am a developer with experience in various programming languages and frameworks
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
 
-  <h2 align="center">📊 Full Statistics</h2>
+<h2 align="center">📊 Full Statistics</h2>
   
-  <p align="center"> 
-    
-![Metrics](https://metrics.lecoq.io/ElonMusk2002?template=classic&languages=1&lines=1&habits=1&followup=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html%2Ccss&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.display=large)
-
-  </p>
-
+<p align="center"> 
+  <img src="https://metrics.lecoq.io/ElonMusk2002?template=classic&languages=1&lines=1&habits=1&followup=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html%2Ccss&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.display=large">
 </p>
-
 
 <p align="center">
-    <img src="https://api.visitorbadge.io/api/VisitorHit?user=ElonMusk2002 &repo=github-visitors-badge&countColor=DodgerBlue" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=ElonMusk2002&repo=github-visitors-badge&countColor=DodgerBlue" />
 </p>
-<div align="center">
-  
-![GIF](https://media.giphy.com/media/Kf7wTk5jlhw6Eg6BXJ/giphy.gif)
 
-  </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/Kf7wTk5jlhw6Eg6BXJ/giphy.gif">
+</div>
