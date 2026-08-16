@@ -35,10 +35,10 @@ I am a developer with experience in various programming languages and frameworks
 <table align="center">
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElonMusk2002&theme=github_dark"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ElonMusk2002&show_icons=true&theme=dark&hide_border=false"></td>
+    <td><img src="https://github-readme-stats-nine-rho-27.vercel.app/api?username=ElonMusk2002&show_icons=true&theme=dark&hide_border=false"></td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElonMusk2002&theme=dark&layout=compact&hide_border=false&langs_count=10"></td>
+    <td><img src="https://github-readme-stats-nine-rho-27.vercel.app/api/top-langs/?username=ElonMusk2002&theme=dark&layout=compact&hide_border=false&langs_count=10"></td>
     <td><img src="https://github-contributor-stats.vercel.app/api?username=ElonMusk2002&limit=5&theme=dark&combine_all_yearly_contributions=true"></td>
   </tr>
 </table>
